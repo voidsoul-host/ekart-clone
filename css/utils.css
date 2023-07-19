@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+.btn{
+    padding: 0px 3px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border: 2px solid #f9f6f6;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: var(--main-bg-color);
+    background-color: white
+}
+.lines p{
+    text-align: center;;
+}
